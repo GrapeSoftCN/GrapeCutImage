@@ -1,8 +1,8 @@
 package interfaceApplication;
 
-import browser.PhantomJS;
-import nlogger.nlogger;
-import security.codec;
+import common.java.browser.PhantomJS;
+import common.java.nlogger.nlogger;
+import common.java.security.codec;
 
 /**
  * 获取网页截图

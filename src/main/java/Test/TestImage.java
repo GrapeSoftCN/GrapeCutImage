@@ -1,8 +1,7 @@
 package Test;
 
-import httpServer.booter;
-import interfaceApplication.ImageOpeation;
-import nlogger.nlogger;
+import common.java.httpServer.booter;
+import common.java.nlogger.nlogger;
 
 public class TestImage {
 	public static void main(String[] args) {
